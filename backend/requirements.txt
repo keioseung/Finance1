@@ -1,3 +1,4 @@
+# 시스템 패키지: python3-distutils 필요 (Ubuntu: sudo apt install python3-distutils)
 fastapi==0.104.1
 uvicorn[standard]==0.24.0
 pydantic==2.5.0
