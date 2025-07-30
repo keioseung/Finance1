@@ -18,4 +18,4 @@ plotly==5.17.0
 python-dotenv==1.0.0
 httpx==0.25.2
 pytest==7.4.3
-pytest-asyncio==0.21.1 
+pytest-asyncio==0.21.1 # 시스템 패키지: python3-distutils 필요 (sudo apt install python3-distutils)
